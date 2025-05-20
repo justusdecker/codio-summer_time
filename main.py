@@ -1,5 +1,5 @@
 def main():
-    total_sum = 0 # declare the total to increment
+    total_sum = 0
     while total_sum < 1000:
       total_sum += int(input(f"Enter your number (current: {s}): "))
     print(f'Total sum: {total_sum}')
